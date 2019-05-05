@@ -10,7 +10,7 @@ docker-registry-cleanup is a tool for batch cleaning gitlab image repositories. 
 Cannot be used in the gitlab registry, reference:
 
 [#37810 - GitLab registry API - UNAUTHORIZED issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/37810)
-
+[#40096 - pipeline user $CI_REGISTRY_USER lacks permission to delete its own images](https://gitlab.com/gitlab-org/gitlab-ce/issues/40096)
 
 # Usage
 
